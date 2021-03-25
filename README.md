@@ -31,5 +31,5 @@ Seção 3 - Pré-processamento com pandas e scikit-learn (Base: credit_data)
 		- Tratar os dados com Imputer
 
 	Escalonamento de atributos
-		- Padronização (Standardisation)	- implementação
+		- Padronização (Standardisation)	-- implementação
 		- Normalização (Normalization)
