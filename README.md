@@ -1,8 +1,8 @@
 # Portfolio-DataScience--Estudos
  Coletânia de códigos desenvolvidos em cursos e bootcamps
 
-# Machine Learning e Data Science com Python ATUALIZADO
-Pré-processamento básico (Base: credit_data)
+# Machine Learning e Data Science com Python
+Seção 3 - Pré-processamento com pandas e scikit-learn (Base: credit_data)
 
 	Bibliotecas:
 		- pandas
